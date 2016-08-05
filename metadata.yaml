@@ -1,0 +1,33 @@
+_repo: Under-the-Prophet-in-Utah--the-National-Menace-of-a-Political-Priestcraft_7066
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: O'Higgins, Harvey Jerrold
+    birthdate: 1876
+    deathdate: 1929
+    gutenberg_agent_id: '2328'
+    url: http://www.gutenberg.org/2009/agents/2328
+  - agent_name: Cannon, Frank J.
+    alias: Cannon, Frank Jenne
+    birthdate: 1859
+    deathdate: 1933
+    gutenberg_agent_id: '2327'
+    url: http://www.gutenberg.org/2009/agents/2327
+description: ''
+gutenberg_bookshelf: Latter Day Saints
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7066'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F786'
+- !lcsh 'Mormons'
+- !lcsh 'Utah -- Politics and government'
+- !lcsh 'Mormon Church'
+- GITenberg
+title: Under the Prophet in Utah; the National Menace of a Political Priestcraft
+url: http://www.gutenberg.org/ebooks/7066
